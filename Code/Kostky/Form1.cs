@@ -12,7 +12,7 @@ namespace Kostky
     {
         private readonly HttpClient client = new HttpClient();
         private string apiUrl = "https://paulas-michal.mzf.cz/Kostky/positions.php"; // Změň na svůj server
-        private int playerNumber = 1; // 1 nebo 2
+        private int playerNumber = 2; // 1 nebo 2
         private PictureBox player1, player2;
 
         public Kostky()
