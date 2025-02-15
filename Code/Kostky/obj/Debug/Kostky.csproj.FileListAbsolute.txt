@@ -1,0 +1,10 @@
+Z:\Games - VS\Kostky\Code\Kostky\bin\Debug\Kostky.exe.config
+Z:\Games - VS\Kostky\Code\Kostky\bin\Debug\Kostky.exe
+Z:\Games - VS\Kostky\Code\Kostky\bin\Debug\Kostky.pdb
+Z:\Games - VS\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.AssemblyReference.cache
+Z:\Games - VS\Kostky\Code\Kostky\obj\Debug\Kostky.Kostky.resources
+Z:\Games - VS\Kostky\Code\Kostky\obj\Debug\Kostky.Properties.Resources.resources
+Z:\Games - VS\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.GenerateResource.cache
+Z:\Games - VS\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.CoreCompileInputs.cache
+Z:\Games - VS\Kostky\Code\Kostky\obj\Debug\Kostky.exe
+Z:\Games - VS\Kostky\Code\Kostky\obj\Debug\Kostky.pdb
