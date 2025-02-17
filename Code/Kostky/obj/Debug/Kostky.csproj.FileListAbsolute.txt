@@ -29,3 +29,35 @@ Z:\Games - VS\Kostky\Code\Kostky\bin\Debug\System.Text.Json.xml
 Z:\Games - VS\Kostky\Code\Kostky\bin\Debug\System.Threading.Tasks.Extensions.xml
 Z:\Games - VS\Kostky\Code\Kostky\bin\Debug\System.ValueTuple.xml
 Z:\Games - VS\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.CopyComplete
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\Kostky.exe.config
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\Kostky.exe
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\Kostky.pdb
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Buffers.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.IO.Pipelines.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Memory.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Numerics.Vectors.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Text.Encodings.Web.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Text.Json.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.ValueTuple.dll
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Buffers.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.IO.Pipelines.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Memory.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Numerics.Vectors.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Text.Encodings.Web.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Text.Json.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Kostky Project\Kostky\Code\Kostky\bin\Debug\System.ValueTuple.xml
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.AssemblyReference.cache
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.SuggestedBindingRedirects.cache
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.Kostky.resources
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.Properties.Resources.resources
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.GenerateResource.cache
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.CoreCompileInputs.cache
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.csproj.CopyComplete
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.exe
+G:\Kostky Project\Kostky\Code\Kostky\obj\Debug\Kostky.pdb
